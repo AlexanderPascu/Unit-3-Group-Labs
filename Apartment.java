@@ -1,4 +1,11 @@
 // This is two files under the squigly lines is the second file.
+// Programmer: Isaac Guzman
+// Program Name: ACMEPay.java
+// Date: 12/08/2022
+// Version: 1.0
+// This program takes the user's criteria for an apartment and finds which apartments
+// fit their criteria and the ones that are close and tells the user what is wrong with them. 
+
 
 package Apartment;
 
